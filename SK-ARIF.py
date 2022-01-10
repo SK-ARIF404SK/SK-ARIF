@@ -106,6 +106,7 @@ print  """
 \033[1;95m♡╭──────────•◈♡\033[1;96mSkArif\033[1;95m♡•──────────╮♡"""
 \033[1;94mAuthor\033[1;91m: \033[1;91mShahriarKhanArif
 \033[1;94mFacebook\033[1;91m: \033[1;91https://www.facebook.com/Shahriar.Khan.Arif.Official
+\033[1;94mYautube\033[1;91m: \033[1;91 https://youtube.com/channel/UCb3q9q7UNJp8cW_UH9nbd-A
 \033[1;94mWhatsapp\033[1;91m: \033[1;91m+966542600919
 \033[1;95m♡╰──────────•◈♡\033[1;96mShahriarKhanArif\033[1;95m♡•──────────╯♡"""
 jalan('\033[1;96m....................SK ARIF.....................:')
